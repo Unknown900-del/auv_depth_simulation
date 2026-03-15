@@ -1,2 +1,18 @@
-# auv_depth_simulation
-A physics-based AUV simulation with PID depth control and sonar obstacle detection
+# AUV Underwater Simulation
+
+This project simulates an Autonomous Underwater Vehicle (AUV) using Python.
+
+Features:
+- AUV physics model (gravity, buoyancy, drag)
+- PID depth control
+- Sonar obstacle detection
+- Fish ecosystem
+- Water surface waves
+- Seabed environment
+- Trajectory visualization
+
+Technologies:
+- Python
+- Matplotlib
+- Numpy
+- Jupyter Notebook
